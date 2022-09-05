@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Quintessential SFT as Intern DevOps Engineer
+- 🔭 I was currently working on Quintessential SFT as Intern DevOps Engineer
 - 🌱 I’m currently learning about Informatics and Telematics at Harokopio University of Athens, Greece
 - 💬 Ask me about devops, web development, docker, kubernetes, python, java
 
